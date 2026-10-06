@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-10-15",
+    "label": "臨時休診",
+    "message": "院内研修のため、終日休診いたします。",
+    "color": "#000",
+    "backgroundColor": "#fdd",
+    "colorPriority": 20
+  }
+]

@@ -1,0 +1,530 @@
+[
+  [
+    {
+      "month": "January",
+      "name": "元日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": 1,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "January",
+      "name": "成人の日",
+      "type": "fixed",
+      "start_year": 1949,
+      "end_year": 1999,
+      "day": 15,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "January",
+      "name": "成人の日",
+      "type": "second_monday",
+      "start_year": 2000,
+      "end_year": 9999,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "February",
+      "name": "建国記念の日",
+      "type": "fixed",
+      "start_year": 1967,
+      "end_year": 9999,
+      "day": 11,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "February",
+      "name": "天皇誕生日",
+      "type": "fixed",
+      "start_year": 2020,
+      "end_year": 9999,
+      "day": 23,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "February",
+      "name": "昭和天皇の大喪の礼",
+      "type": "fixed",
+      "start_year": 1989,
+      "end_year": 1989,
+      "day": 24,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "March",
+      "name": "春分の日",
+      "type": "vernal_equinox",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "April",
+      "name": "皇太子明仁親王の結婚の儀",
+      "type": "fixed",
+      "start_year": 1959,
+      "end_year": 1959,
+      "day": 10,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "April",
+      "name": "天皇誕生日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 1988,
+      "day": 29,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "April",
+      "name": "みどりの日",
+      "type": "fixed",
+      "start_year": 1989,
+      "end_year": 2006,
+      "day": 29,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "April",
+      "name": "昭和の日",
+      "type": "fixed",
+      "start_year": 2007,
+      "end_year": 9999,
+      "day": 29,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "April",
+      "name": "国民の休日",
+      "type": "fixed",
+      "start_year": 2019,
+      "end_year": 2019,
+      "day": 30,
+      "comment": "(2019/4/30) // 祝日に挟まれた国民の休日(平成天皇の退位日)",
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "May",
+      "name": "天皇の即位の日",
+      "type": "fixed",
+      "start_year": 2019,
+      "end_year": 2019,
+      "day": 1,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "国民の休日",
+      "type": "fixed",
+      "start_year": 2019,
+      "end_year": 2019,
+      "day": 2,
+      "comment": " (2019/5/2) // 祝日に挟まれた国民の休日",
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "憲法記念日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": 3,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "みどりの日",
+      "type": "fixed",
+      "start_year": 2007,
+      "end_year": 9999,
+      "day": 4,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "国民の休日",
+      "type": "conditional_holiday",
+      "start_year": 1986,
+      "end_year": 2006,
+      "day": 4,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "こどもの日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": 5,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "May",
+      "name": "振替休日",
+      "type": "conditional_substitute_holiday",
+      "start_year": 2007,
+      "end_year": 9999,
+      "day": 6,
+      "comment": "[5/3,5/4が日曜]ケースのみ、ここで判定",
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "June",
+      "name": "皇太子徳仁親王の結婚の儀",
+      "type": "fixed",
+      "start_year": 1993,
+      "end_year": 1993,
+      "day": 9,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "June",
+      "name": "海の日",
+      "type": "third_monday",
+      "start_year": 2003,
+      "end_year": 2019,
+      "day": null,
+      "comment": "7月の第3月曜日",
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "海の日",
+      "type": "third_monday",
+      "start_year": 2022,
+      "end_year": 9999,
+      "day": null,
+      "comment": "7月の第3月曜日",
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "海の日",
+      "type": "fixed",
+      "start_year": 1996,
+      "end_year": 2002,
+      "day": 20,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "海の日",
+      "type": "fixed",
+      "start_year": 2021,
+      "end_year": 2021,
+      "day": 22,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "海の日",
+      "type": "fixed",
+      "start_year": 2020,
+      "end_year": 2020,
+      "day": 23,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "スポーツの日",
+      "type": "fixed",
+      "start_year": 2021,
+      "end_year": 2021,
+      "day": 23,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "June",
+      "name": "スポーツの日",
+      "type": "fixed",
+      "start_year": 2020,
+      "end_year": 2020,
+      "day": 24,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "August",
+      "name": "山の日",
+      "type": "fixed",
+      "start_year": 2021,
+      "end_year": 2021,
+      "day": 8,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "August",
+      "name": "山の日",
+      "type": "fixed",
+      "start_year": 2020,
+      "end_year": 2020,
+      "day": 10,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "August",
+      "name": "山の日",
+      "type": "fixed",
+      "start_year": 2016,
+      "end_year": 2019,
+      "day": 11,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "August",
+      "name": "山の日",
+      "type": "fixed",
+      "start_year": 2022,
+      "end_year": 9999,
+      "day": 11,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "September",
+      "name": "敬老の日",
+      "type": "third_monday",
+      "start_year": 2003,
+      "end_year": 9999,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "September",
+      "name": "敬老の日",
+      "type": "fixed",
+      "start_year": 1966,
+      "end_year": 2002,
+      "day": 15,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "September",
+      "name": "秋分の日",
+      "type": "autumnal_equinox",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "October",
+      "name": "体育の日",
+      "type": "second_monday",
+      "start_year": 2000,
+      "end_year": 2019,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "October",
+      "name": "スポーツの日",
+      "type": "second_monday",
+      "start_year": 2022,
+      "end_year": 9999,
+      "day": null,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "October",
+      "name": "体育の日",
+      "type": "fixed",
+      "start_year": 1966,
+      "end_year": 1999,
+      "day": 10,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "October",
+      "name": "即位礼正殿の儀",
+      "type": "fixed",
+      "start_year": 2019,
+      "end_year": 2019,
+      "day": 22,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "November",
+      "name": "文化の日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": 3,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "November",
+      "name": "即位礼 正殿の儀",
+      "type": "fixed",
+      "start_year": 1990,
+      "end_year": 1990,
+      "day": 12,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    },
+    {
+      "month": "November",
+      "name": "勤労感謝の日",
+      "type": "fixed",
+      "start_year": 0,
+      "end_year": 9999,
+      "day": 23,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ],
+  [
+    {
+      "month": "December",
+      "name": "天皇誕生日",
+      "type": "fixed",
+      "start_year": 1989,
+      "end_year": 2018,
+      "day": 23,
+      "comment": null,
+      "color": "#db2777",
+      "backgroundColor": "#fecdd3",
+      "colorPriority": 10
+    }
+  ]
+]
